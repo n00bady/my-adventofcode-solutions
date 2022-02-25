@@ -25,18 +25,22 @@ int main (int argc, char *argv[]) {
         perror("Unable to open file!");
         return 1;
     }
-
-    int i = find_visited(&fp, 1);
-    printf("Part1>> Count of locations visited at least once: %d\n", i);
+    // Part 1
+    int part1 = find_visited(&fp, 1);
+    printf("Part1>> Count of locations visited at least once: %d\n", part1);
+    
+    // rewind to file pointer so we can iterate through it again
     rewind(fp);
-    int i2 = find_visited(&fp, 2);
-    printf("Part2>> Count of locations visited by all santas at least once: %d\n", i2);
+
+    // Part 2
+    int part2 = find_visited(&fp, 2);
+    printf("Part2>> Count of locations visited by all santas at least once: %d\n", part2);
 
     fclose(fp);
     return 0;
 }
 
-// TODO: fix initialization for multiple santas
+// return the amount coordinates that visited at least once
 int find_visited (FILE **fp, int santas) {
   struct coord visited[10000];
   struct coord cur[santas];
@@ -45,8 +49,11 @@ int find_visited (FILE **fp, int santas) {
   visited[0].x = 0;
   visited[0].y = 0;
   int robo_santas = 0;
-  init_santas(&cur[santas], santas);
+  init_santas(cur, santas);
 
+  // move according to the input directions
+  // the robo_santas %= santas helps alternate 
+  // the input direction between n santas
   while ((ch = fgetc(*fp)) != EOF) {
     if (ch == '^') {
       cur[robo_santas].y += 1;
@@ -72,7 +79,9 @@ int find_visited (FILE **fp, int santas) {
   return visited_count;
 }
 
-void init_santas(struct coord *cur, int santas) {
+// TODO: fix initialization for multiple santas
+// initialize the current coords of each santa bot
+void init_santas(struct coord cur[], int santas) {
   for (int i=0;i<santas;i++) {
     cur[i].x = 0;
     cur[i].y = 0;
