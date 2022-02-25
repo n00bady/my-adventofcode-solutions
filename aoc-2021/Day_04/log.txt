@@ -1,0 +1,4658 @@
+---- The numbers: 
+7 4 9 5 11 17 23 2 0 14 21 24 10 16 13 6 15 25 12 22 18 20 8 19 3 26 1 
+--------------------
+22 |13 |17 |11 |0 |
+8 |2 |23 |4 |24 |
+21 |9 |14 |16 |7 |
+6 |10 |3 |18 |5 |
+1 |12 |20 |15 |19 |
+3 |15 |0 |2 |22 |
+9 |18 |13 |17 |5 |
+19 |8 |7 |25 |23 |
+20 |11 |10 |24 |4 |
+14 |21 |16 |12 |6 |
+14 |21 |17 |24 |4 |
+10 |16 |15 |9 |19 |
+18 |8 |23 |26 |20 |
+22 |11 |13 |6 |5 |
+2 |0 |12 |3 |7 |
+>Marking board for 7 number.
+value: 22 number: 7 
+-------
+value: 13 number: 7 
+-------
+value: 17 number: 7 
+-------
+value: 11 number: 7 
+-------
+value: 0 number: 7 
+-------
+
+value: 8 number: 7 
+-------
+value: 2 number: 7 
+-------
+value: 23 number: 7 
+-------
+value: 4 number: 7 
+-------
+value: 24 number: 7 
+-------
+
+value: 21 number: 7 
+-------
+value: 9 number: 7 
+-------
+value: 14 number: 7 
+-------
+value: 16 number: 7 
+-------
+value: 7 number: 7 
+-------
+MARKED!
+
+
+value: 6 number: 7 
+-------
+value: 10 number: 7 
+-------
+value: 3 number: 7 
+-------
+value: 18 number: 7 
+-------
+value: 5 number: 7 
+-------
+
+value: 1 number: 7 
+-------
+value: 12 number: 7 
+-------
+value: 20 number: 7 
+-------
+value: 15 number: 7 
+-------
+value: 19 number: 7 
+-------
+
+End of card #0 checkingwins...
+
+
++1 row
++1 col
+
+r_c: 0	c_c: 1
+
+value: 3 number: 7 
+-------
+value: 15 number: 7 
+-------
+value: 0 number: 7 
+-------
+value: 2 number: 7 
+-------
+value: 22 number: 7 
+-------
+
+value: 9 number: 7 
+-------
+value: 18 number: 7 
+-------
+value: 13 number: 7 
+-------
+value: 17 number: 7 
+-------
+value: 5 number: 7 
+-------
+
+value: 19 number: 7 
+-------
+value: 8 number: 7 
+-------
+value: 7 number: 7 
+-------
+MARKED!
+
+value: 25 number: 7 
+-------
+value: 23 number: 7 
+-------
+
+value: 20 number: 7 
+-------
+value: 11 number: 7 
+-------
+value: 10 number: 7 
+-------
+value: 24 number: 7 
+-------
+value: 4 number: 7 
+-------
+
+value: 14 number: 7 
+-------
+value: 21 number: 7 
+-------
+value: 16 number: 7 
+-------
+value: 12 number: 7 
+-------
+value: 6 number: 7 
+-------
+
+End of card #1 checkingwins...
+
+
++1 row
++1 col
+
+r_c: 0	c_c: 0
+
+value: 14 number: 7 
+-------
+value: 21 number: 7 
+-------
+value: 17 number: 7 
+-------
+value: 24 number: 7 
+-------
+value: 4 number: 7 
+-------
+
+value: 10 number: 7 
+-------
+value: 16 number: 7 
+-------
+value: 15 number: 7 
+-------
+value: 9 number: 7 
+-------
+value: 19 number: 7 
+-------
+
+value: 18 number: 7 
+-------
+value: 8 number: 7 
+-------
+value: 23 number: 7 
+-------
+value: 26 number: 7 
+-------
+value: 20 number: 7 
+-------
+
+value: 22 number: 7 
+-------
+value: 11 number: 7 
+-------
+value: 13 number: 7 
+-------
+value: 6 number: 7 
+-------
+value: 5 number: 7 
+-------
+
+value: 2 number: 7 
+-------
+value: 0 number: 7 
+-------
+value: 12 number: 7 
+-------
+value: 3 number: 7 
+-------
+value: 7 number: 7 
+-------
+MARKED!
+
+
+End of card #2 checkingwins...
+
+
++1 row
++1 col
+
+r_c: 1	c_c: 1
+
+>Marking board for 4 number.
+value: 22 number: 4 
+-------
+value: 13 number: 4 
+-------
+value: 17 number: 4 
+-------
+value: 11 number: 4 
+-------
+value: 0 number: 4 
+-------
+
+value: 8 number: 4 
+-------
+value: 2 number: 4 
+-------
+value: 23 number: 4 
+-------
+value: 4 number: 4 
+-------
+MARKED!
+
+value: 24 number: 4 
+-------
+
+value: 21 number: 4 
+-------
+value: 9 number: 4 
+-------
+value: 14 number: 4 
+-------
+value: 16 number: 4 
+-------
+value: -1 number: 4 
+-------
+
+value: 6 number: 4 
+-------
+value: 10 number: 4 
+-------
+value: 3 number: 4 
+-------
+value: 18 number: 4 
+-------
+value: 5 number: 4 
+-------
+
+value: 1 number: 4 
+-------
+value: 12 number: 4 
+-------
+value: 20 number: 4 
+-------
+value: 15 number: 4 
+-------
+value: 19 number: 4 
+-------
+
+End of card #0 checkingwins...
+
+
++1 row
++1 row
++1 col
++1 col
+
+r_c: 0	c_c: 1
+
+value: 3 number: 4 
+-------
+value: 15 number: 4 
+-------
+value: 0 number: 4 
+-------
+value: 2 number: 4 
+-------
+value: 22 number: 4 
+-------
+
+value: 9 number: 4 
+-------
+value: 18 number: 4 
+-------
+value: 13 number: 4 
+-------
+value: 17 number: 4 
+-------
+value: 5 number: 4 
+-------
+
+value: 19 number: 4 
+-------
+value: 8 number: 4 
+-------
+value: -1 number: 4 
+-------
+value: 25 number: 4 
+-------
+value: 23 number: 4 
+-------
+
+value: 20 number: 4 
+-------
+value: 11 number: 4 
+-------
+value: 10 number: 4 
+-------
+value: 24 number: 4 
+-------
+value: 4 number: 4 
+-------
+MARKED!
+
+
+value: 14 number: 4 
+-------
+value: 21 number: 4 
+-------
+value: 16 number: 4 
+-------
+value: 12 number: 4 
+-------
+value: 6 number: 4 
+-------
+
+End of card #1 checkingwins...
+
+
++1 row
++1 col
++1 row
++1 col
+
+r_c: 0	c_c: 1
+
+value: 14 number: 4 
+-------
+value: 21 number: 4 
+-------
+value: 17 number: 4 
+-------
+value: 24 number: 4 
+-------
+value: 4 number: 4 
+-------
+MARKED!
+
+
+value: 10 number: 4 
+-------
+value: 16 number: 4 
+-------
+value: 15 number: 4 
+-------
+value: 9 number: 4 
+-------
+value: 19 number: 4 
+-------
+
+value: 18 number: 4 
+-------
+value: 8 number: 4 
+-------
+value: 23 number: 4 
+-------
+value: 26 number: 4 
+-------
+value: 20 number: 4 
+-------
+
+value: 22 number: 4 
+-------
+value: 11 number: 4 
+-------
+value: 13 number: 4 
+-------
+value: 6 number: 4 
+-------
+value: 5 number: 4 
+-------
+
+value: 2 number: 4 
+-------
+value: 0 number: 4 
+-------
+value: 12 number: 4 
+-------
+value: 3 number: 4 
+-------
+value: -1 number: 4 
+-------
+
+End of card #2 checkingwins...
+
+
++1 row
++1 col
++1 row
++1 col
+
+r_c: 1	c_c: 2
+
+>Marking board for 9 number.
+value: 22 number: 9 
+-------
+value: 13 number: 9 
+-------
+value: 17 number: 9 
+-------
+value: 11 number: 9 
+-------
+value: 0 number: 9 
+-------
+
+value: 8 number: 9 
+-------
+value: 2 number: 9 
+-------
+value: 23 number: 9 
+-------
+value: -1 number: 9 
+-------
+value: 24 number: 9 
+-------
+
+value: 21 number: 9 
+-------
+value: 9 number: 9 
+-------
+MARKED!
+
+value: 14 number: 9 
+-------
+value: 16 number: 9 
+-------
+value: -1 number: 9 
+-------
+
+value: 6 number: 9 
+-------
+value: 10 number: 9 
+-------
+value: 3 number: 9 
+-------
+value: 18 number: 9 
+-------
+value: 5 number: 9 
+-------
+
+value: 1 number: 9 
+-------
+value: 12 number: 9 
+-------
+value: 20 number: 9 
+-------
+value: 15 number: 9 
+-------
+value: 19 number: 9 
+-------
+
+End of card #0 checkingwins...
+
+
++1 col
++1 row
++1 row
++1 row
++1 col
++1 col
+
+r_c: 0	c_c: 1
+
+value: 3 number: 9 
+-------
+value: 15 number: 9 
+-------
+value: 0 number: 9 
+-------
+value: 2 number: 9 
+-------
+value: 22 number: 9 
+-------
+
+value: 9 number: 9 
+-------
+MARKED!
+
+value: 18 number: 9 
+-------
+value: 13 number: 9 
+-------
+value: 17 number: 9 
+-------
+value: 5 number: 9 
+-------
+
+value: 19 number: 9 
+-------
+value: 8 number: 9 
+-------
+value: -1 number: 9 
+-------
+value: 25 number: 9 
+-------
+value: 23 number: 9 
+-------
+
+value: 20 number: 9 
+-------
+value: 11 number: 9 
+-------
+value: 10 number: 9 
+-------
+value: 24 number: 9 
+-------
+value: -1 number: 9 
+-------
+
+value: 14 number: 9 
+-------
+value: 21 number: 9 
+-------
+value: 16 number: 9 
+-------
+value: 12 number: 9 
+-------
+value: 6 number: 9 
+-------
+
+End of card #1 checkingwins...
+
+
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
+
+r_c: 0	c_c: 1
+
+value: 14 number: 9 
+-------
+value: 21 number: 9 
+-------
+value: 17 number: 9 
+-------
+value: 24 number: 9 
+-------
+value: -1 number: 9 
+-------
+
+value: 10 number: 9 
+-------
+value: 16 number: 9 
+-------
+value: 15 number: 9 
+-------
+value: 9 number: 9 
+-------
+MARKED!
+
+value: 19 number: 9 
+-------
+
+value: 18 number: 9 
+-------
+value: 8 number: 9 
+-------
+value: 23 number: 9 
+-------
+value: 26 number: 9 
+-------
+value: 20 number: 9 
+-------
+
+value: 22 number: 9 
+-------
+value: 11 number: 9 
+-------
+value: 13 number: 9 
+-------
+value: 6 number: 9 
+-------
+value: 5 number: 9 
+-------
+
+value: 2 number: 9 
+-------
+value: 0 number: 9 
+-------
+value: 12 number: 9 
+-------
+value: 3 number: 9 
+-------
+value: -1 number: 9 
+-------
+
+End of card #2 checkingwins...
+
+
++1 row
++1 row
++1 col
++1 col
++1 row
++1 col
+
+r_c: 1	c_c: 2
+
+>Marking board for 5 number.
+value: 22 number: 5 
+-------
+value: 13 number: 5 
+-------
+value: 17 number: 5 
+-------
+value: 11 number: 5 
+-------
+value: 0 number: 5 
+-------
+
+value: 8 number: 5 
+-------
+value: 2 number: 5 
+-------
+value: 23 number: 5 
+-------
+value: -1 number: 5 
+-------
+value: 24 number: 5 
+-------
+
+value: 21 number: 5 
+-------
+value: -1 number: 5 
+-------
+value: 14 number: 5 
+-------
+value: 16 number: 5 
+-------
+value: -1 number: 5 
+-------
+
+value: 6 number: 5 
+-------
+value: 10 number: 5 
+-------
+value: 3 number: 5 
+-------
+value: 18 number: 5 
+-------
+value: 5 number: 5 
+-------
+MARKED!
+
+
+value: 1 number: 5 
+-------
+value: 12 number: 5 
+-------
+value: 20 number: 5 
+-------
+value: 15 number: 5 
+-------
+value: 19 number: 5 
+-------
+
+End of card #0 checkingwins...
+
+
++1 col
++1 row
++1 row
++1 row
++1 col
++1 row
++1 col
++1 col
+
+r_c: 0	c_c: 2
+
+value: 3 number: 5 
+-------
+value: 15 number: 5 
+-------
+value: 0 number: 5 
+-------
+value: 2 number: 5 
+-------
+value: 22 number: 5 
+-------
+
+value: -1 number: 5 
+-------
+value: 18 number: 5 
+-------
+value: 13 number: 5 
+-------
+value: 17 number: 5 
+-------
+value: 5 number: 5 
+-------
+MARKED!
+
+
+value: 19 number: 5 
+-------
+value: 8 number: 5 
+-------
+value: -1 number: 5 
+-------
+value: 25 number: 5 
+-------
+value: 23 number: 5 
+-------
+
+value: 20 number: 5 
+-------
+value: 11 number: 5 
+-------
+value: 10 number: 5 
+-------
+value: 24 number: 5 
+-------
+value: -1 number: 5 
+-------
+
+value: 14 number: 5 
+-------
+value: 21 number: 5 
+-------
+value: 16 number: 5 
+-------
+value: 12 number: 5 
+-------
+value: 6 number: 5 
+-------
+
+End of card #1 checkingwins...
+
+
++1 col
++1 row
++1 row
++1 row
++1 col
++1 row
++1 col
++1 col
+
+r_c: 0	c_c: 2
+
+value: 14 number: 5 
+-------
+value: 21 number: 5 
+-------
+value: 17 number: 5 
+-------
+value: 24 number: 5 
+-------
+value: -1 number: 5 
+-------
+
+value: 10 number: 5 
+-------
+value: 16 number: 5 
+-------
+value: 15 number: 5 
+-------
+value: -1 number: 5 
+-------
+value: 19 number: 5 
+-------
+
+value: 18 number: 5 
+-------
+value: 8 number: 5 
+-------
+value: 23 number: 5 
+-------
+value: 26 number: 5 
+-------
+value: 20 number: 5 
+-------
+
+value: 22 number: 5 
+-------
+value: 11 number: 5 
+-------
+value: 13 number: 5 
+-------
+value: 6 number: 5 
+-------
+value: 5 number: 5 
+-------
+MARKED!
+
+
+value: 2 number: 5 
+-------
+value: 0 number: 5 
+-------
+value: 12 number: 5 
+-------
+value: 3 number: 5 
+-------
+value: -1 number: 5 
+-------
+
+End of card #2 checkingwins...
+
+
++1 row
++1 row
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
+
+r_c: 1	c_c: 3
+
+>Marking board for 11 number.
+value: 22 number: 11 
+-------
+value: 13 number: 11 
+-------
+value: 17 number: 11 
+-------
+value: 11 number: 11 
+-------
+MARKED!
+
+value: 0 number: 11 
+-------
+
+value: 8 number: 11 
+-------
+value: 2 number: 11 
+-------
+value: 23 number: 11 
+-------
+value: -1 number: 11 
+-------
+value: 24 number: 11 
+-------
+
+value: 21 number: 11 
+-------
+value: -1 number: 11 
+-------
+value: 14 number: 11 
+-------
+value: 16 number: 11 
+-------
+value: -1 number: 11 
+-------
+
+value: 6 number: 11 
+-------
+value: 10 number: 11 
+-------
+value: 3 number: 11 
+-------
+value: 18 number: 11 
+-------
+value: -1 number: 11 
+-------
+
+value: 1 number: 11 
+-------
+value: 12 number: 11 
+-------
+value: 20 number: 11 
+-------
+value: 15 number: 11 
+-------
+value: 19 number: 11 
+-------
+
+End of card #0 checkingwins...
+
+
++1 row
++1 col
++1 row
++1 row
++1 row
++1 col
++1 col
++1 row
++1 col
++1 col
+
+r_c: 0	c_c: 2
+
+value: 3 number: 11 
+-------
+value: 15 number: 11 
+-------
+value: 0 number: 11 
+-------
+value: 2 number: 11 
+-------
+value: 22 number: 11 
+-------
+
+value: -1 number: 11 
+-------
+value: 18 number: 11 
+-------
+value: 13 number: 11 
+-------
+value: 17 number: 11 
+-------
+value: -1 number: 11 
+-------
+
+value: 19 number: 11 
+-------
+value: 8 number: 11 
+-------
+value: -1 number: 11 
+-------
+value: 25 number: 11 
+-------
+value: 23 number: 11 
+-------
+
+value: 20 number: 11 
+-------
+value: 11 number: 11 
+-------
+MARKED!
+
+value: 10 number: 11 
+-------
+value: 24 number: 11 
+-------
+value: -1 number: 11 
+-------
+
+value: 14 number: 11 
+-------
+value: 21 number: 11 
+-------
+value: 16 number: 11 
+-------
+value: 12 number: 11 
+-------
+value: 6 number: 11 
+-------
+
+End of card #1 checkingwins...
+
+
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 row
++1 col
++1 col
+
+r_c: 0	c_c: 2
+
+value: 14 number: 11 
+-------
+value: 21 number: 11 
+-------
+value: 17 number: 11 
+-------
+value: 24 number: 11 
+-------
+value: -1 number: 11 
+-------
+
+value: 10 number: 11 
+-------
+value: 16 number: 11 
+-------
+value: 15 number: 11 
+-------
+value: -1 number: 11 
+-------
+value: 19 number: 11 
+-------
+
+value: 18 number: 11 
+-------
+value: 8 number: 11 
+-------
+value: 23 number: 11 
+-------
+value: 26 number: 11 
+-------
+value: 20 number: 11 
+-------
+
+value: 22 number: 11 
+-------
+value: 11 number: 11 
+-------
+MARKED!
+
+value: 13 number: 11 
+-------
+value: 6 number: 11 
+-------
+value: -1 number: 11 
+-------
+
+value: 2 number: 11 
+-------
+value: 0 number: 11 
+-------
+value: 12 number: 11 
+-------
+value: 3 number: 11 
+-------
+value: -1 number: 11 
+-------
+
+End of card #2 checkingwins...
+
+
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
+
+r_c: 1	c_c: 3
+
+>Marking board for 17 number.
+value: 22 number: 17 
+-------
+value: 13 number: 17 
+-------
+value: 17 number: 17 
+-------
+MARKED!
+
+value: -1 number: 17 
+-------
+value: 0 number: 17 
+-------
+
+value: 8 number: 17 
+-------
+value: 2 number: 17 
+-------
+value: 23 number: 17 
+-------
+value: -1 number: 17 
+-------
+value: 24 number: 17 
+-------
+
+value: 21 number: 17 
+-------
+value: -1 number: 17 
+-------
+value: 14 number: 17 
+-------
+value: 16 number: 17 
+-------
+value: -1 number: 17 
+-------
+
+value: 6 number: 17 
+-------
+value: 10 number: 17 
+-------
+value: 3 number: 17 
+-------
+value: 18 number: 17 
+-------
+value: -1 number: 17 
+-------
+
+value: 1 number: 17 
+-------
+value: 12 number: 17 
+-------
+value: 20 number: 17 
+-------
+value: 15 number: 17 
+-------
+value: 19 number: 17 
+-------
+
+End of card #0 checkingwins...
+
+
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 col
++1 row
++1 col
++1 col
+
+r_c: 0	c_c: 2
+
+value: 3 number: 17 
+-------
+value: 15 number: 17 
+-------
+value: 0 number: 17 
+-------
+value: 2 number: 17 
+-------
+value: 22 number: 17 
+-------
+
+value: -1 number: 17 
+-------
+value: 18 number: 17 
+-------
+value: 13 number: 17 
+-------
+value: 17 number: 17 
+-------
+MARKED!
+
+value: -1 number: 17 
+-------
+
+value: 19 number: 17 
+-------
+value: 8 number: 17 
+-------
+value: -1 number: 17 
+-------
+value: 25 number: 17 
+-------
+value: 23 number: 17 
+-------
+
+value: 20 number: 17 
+-------
+value: -1 number: 17 
+-------
+value: 10 number: 17 
+-------
+value: 24 number: 17 
+-------
+value: -1 number: 17 
+-------
+
+value: 14 number: 17 
+-------
+value: 21 number: 17 
+-------
+value: 16 number: 17 
+-------
+value: 12 number: 17 
+-------
+value: 6 number: 17 
+-------
+
+End of card #1 checkingwins...
+
+
++1 col
++1 row
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 col
+
+r_c: 0	c_c: 2
+
+value: 14 number: 17 
+-------
+value: 21 number: 17 
+-------
+value: 17 number: 17 
+-------
+MARKED!
+
+value: 24 number: 17 
+-------
+value: -1 number: 17 
+-------
+
+value: 10 number: 17 
+-------
+value: 16 number: 17 
+-------
+value: 15 number: 17 
+-------
+value: -1 number: 17 
+-------
+value: 19 number: 17 
+-------
+
+value: 18 number: 17 
+-------
+value: 8 number: 17 
+-------
+value: 23 number: 17 
+-------
+value: 26 number: 17 
+-------
+value: 20 number: 17 
+-------
+
+value: 22 number: 17 
+-------
+value: -1 number: 17 
+-------
+value: 13 number: 17 
+-------
+value: 6 number: 17 
+-------
+value: -1 number: 17 
+-------
+
+value: 2 number: 17 
+-------
+value: 0 number: 17 
+-------
+value: 12 number: 17 
+-------
+value: 3 number: 17 
+-------
+value: -1 number: 17 
+-------
+
+End of card #2 checkingwins...
+
+
++1 row
++1 row
++1 row
++1 col
++1 col
++1 row
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
+
+r_c: 1	c_c: 3
+
+>Marking board for 23 number.
+value: 22 number: 23 
+-------
+value: 13 number: 23 
+-------
+value: -1 number: 23 
+-------
+value: -1 number: 23 
+-------
+value: 0 number: 23 
+-------
+
+value: 8 number: 23 
+-------
+value: 2 number: 23 
+-------
+value: 23 number: 23 
+-------
+MARKED!
+
+value: -1 number: 23 
+-------
+value: 24 number: 23 
+-------
+
+value: 21 number: 23 
+-------
+value: -1 number: 23 
+-------
+value: 14 number: 23 
+-------
+value: 16 number: 23 
+-------
+value: -1 number: 23 
+-------
+
+value: 6 number: 23 
+-------
+value: 10 number: 23 
+-------
+value: 3 number: 23 
+-------
+value: 18 number: 23 
+-------
+value: -1 number: 23 
+-------
+
+value: 1 number: 23 
+-------
+value: 12 number: 23 
+-------
+value: 20 number: 23 
+-------
+value: 15 number: 23 
+-------
+value: 19 number: 23 
+-------
+
+End of card #0 checkingwins...
+
+
++1 row
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 col
+
+r_c: 0	c_c: 2
+
+value: 3 number: 23 
+-------
+value: 15 number: 23 
+-------
+value: 0 number: 23 
+-------
+value: 2 number: 23 
+-------
+value: 22 number: 23 
+-------
+
+value: -1 number: 23 
+-------
+value: 18 number: 23 
+-------
+value: 13 number: 23 
+-------
+value: -1 number: 23 
+-------
+value: -1 number: 23 
+-------
+
+value: 19 number: 23 
+-------
+value: 8 number: 23 
+-------
+value: -1 number: 23 
+-------
+value: 25 number: 23 
+-------
+value: 23 number: 23 
+-------
+MARKED!
+
+
+value: 20 number: 23 
+-------
+value: -1 number: 23 
+-------
+value: 10 number: 23 
+-------
+value: 24 number: 23 
+-------
+value: -1 number: 23 
+-------
+
+value: 14 number: 23 
+-------
+value: 21 number: 23 
+-------
+value: 16 number: 23 
+-------
+value: 12 number: 23 
+-------
+value: 6 number: 23 
+-------
+
+End of card #1 checkingwins...
+
+
++1 col
++1 row
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 col
++1 col
+
+r_c: 0	c_c: 3
+
+value: 14 number: 23 
+-------
+value: 21 number: 23 
+-------
+value: -1 number: 23 
+-------
+value: 24 number: 23 
+-------
+value: -1 number: 23 
+-------
+
+value: 10 number: 23 
+-------
+value: 16 number: 23 
+-------
+value: 15 number: 23 
+-------
+value: -1 number: 23 
+-------
+value: 19 number: 23 
+-------
+
+value: 18 number: 23 
+-------
+value: 8 number: 23 
+-------
+value: 23 number: 23 
+-------
+MARKED!
+
+value: 26 number: 23 
+-------
+value: 20 number: 23 
+-------
+
+value: 22 number: 23 
+-------
+value: -1 number: 23 
+-------
+value: 13 number: 23 
+-------
+value: 6 number: 23 
+-------
+value: -1 number: 23 
+-------
+
+value: 2 number: 23 
+-------
+value: 0 number: 23 
+-------
+value: 12 number: 23 
+-------
+value: 3 number: 23 
+-------
+value: -1 number: 23 
+-------
+
+End of card #2 checkingwins...
+
+
++1 row
++1 row
++1 row
++1 col
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
+
+r_c: 1	c_c: 3
+
+>Marking board for 2 number.
+value: 22 number: 2 
+-------
+value: 13 number: 2 
+-------
+value: -1 number: 2 
+-------
+value: -1 number: 2 
+-------
+value: 0 number: 2 
+-------
+
+value: 8 number: 2 
+-------
+value: 2 number: 2 
+-------
+MARKED!
+
+value: -1 number: 2 
+-------
+value: -1 number: 2 
+-------
+value: 24 number: 2 
+-------
+
+value: 21 number: 2 
+-------
+value: -1 number: 2 
+-------
+value: 14 number: 2 
+-------
+value: 16 number: 2 
+-------
+value: -1 number: 2 
+-------
+
+value: 6 number: 2 
+-------
+value: 10 number: 2 
+-------
+value: 3 number: 2 
+-------
+value: 18 number: 2 
+-------
+value: -1 number: 2 
+-------
+
+value: 1 number: 2 
+-------
+value: 12 number: 2 
+-------
+value: 20 number: 2 
+-------
+value: 15 number: 2 
+-------
+value: 19 number: 2 
+-------
+
+End of card #0 checkingwins...
+
+
++1 row
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 col
+
+r_c: 0	c_c: 2
+
+value: 3 number: 2 
+-------
+value: 15 number: 2 
+-------
+value: 0 number: 2 
+-------
+value: 2 number: 2 
+-------
+MARKED!
+
+value: 22 number: 2 
+-------
+
+value: -1 number: 2 
+-------
+value: 18 number: 2 
+-------
+value: 13 number: 2 
+-------
+value: -1 number: 2 
+-------
+value: -1 number: 2 
+-------
+
+value: 19 number: 2 
+-------
+value: 8 number: 2 
+-------
+value: -1 number: 2 
+-------
+value: 25 number: 2 
+-------
+value: -1 number: 2 
+-------
+
+value: 20 number: 2 
+-------
+value: -1 number: 2 
+-------
+value: 10 number: 2 
+-------
+value: 24 number: 2 
+-------
+value: -1 number: 2 
+-------
+
+value: 14 number: 2 
+-------
+value: 21 number: 2 
+-------
+value: 16 number: 2 
+-------
+value: 12 number: 2 
+-------
+value: 6 number: 2 
+-------
+
+End of card #1 checkingwins...
+
+
++1 col
++1 row
++1 row
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 col
++1 col
+
+r_c: 0	c_c: 3
+
+value: 14 number: 2 
+-------
+value: 21 number: 2 
+-------
+value: -1 number: 2 
+-------
+value: 24 number: 2 
+-------
+value: -1 number: 2 
+-------
+
+value: 10 number: 2 
+-------
+value: 16 number: 2 
+-------
+value: 15 number: 2 
+-------
+value: -1 number: 2 
+-------
+value: 19 number: 2 
+-------
+
+value: 18 number: 2 
+-------
+value: 8 number: 2 
+-------
+value: -1 number: 2 
+-------
+value: 26 number: 2 
+-------
+value: 20 number: 2 
+-------
+
+value: 22 number: 2 
+-------
+value: -1 number: 2 
+-------
+value: 13 number: 2 
+-------
+value: 6 number: 2 
+-------
+value: -1 number: 2 
+-------
+
+value: 2 number: 2 
+-------
+MARKED!
+
+value: 0 number: 2 
+-------
+value: 12 number: 2 
+-------
+value: 3 number: 2 
+-------
+value: -1 number: 2 
+-------
+
+End of card #2 checkingwins...
+
+
++1 row
++1 row
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 col
++1 row
++1 col
+
+r_c: 2	c_c: 3
+
+>Marking board for 0 number.
+value: 22 number: 0 
+-------
+value: 13 number: 0 
+-------
+value: -1 number: 0 
+-------
+value: -1 number: 0 
+-------
+value: 0 number: 0 
+-------
+MARKED!
+
+
+value: 8 number: 0 
+-------
+value: -1 number: 0 
+-------
+value: -1 number: 0 
+-------
+value: -1 number: 0 
+-------
+value: 24 number: 0 
+-------
+
+value: 21 number: 0 
+-------
+value: -1 number: 0 
+-------
+value: 14 number: 0 
+-------
+value: 16 number: 0 
+-------
+value: -1 number: 0 
+-------
+
+value: 6 number: 0 
+-------
+value: 10 number: 0 
+-------
+value: 3 number: 0 
+-------
+value: 18 number: 0 
+-------
+value: -1 number: 0 
+-------
+
+value: 1 number: 0 
+-------
+value: 12 number: 0 
+-------
+value: 20 number: 0 
+-------
+value: 15 number: 0 
+-------
+value: 19 number: 0 
+-------
+
+End of card #0 checkingwins...
+
+
++1 row
++1 row
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 col
++1 col
+
+r_c: 0	c_c: 3
+
+value: 3 number: 0 
+-------
+value: 15 number: 0 
+-------
+value: 0 number: 0 
+-------
+MARKED!
+
+value: -1 number: 0 
+-------
+value: 22 number: 0 
+-------
+
+value: -1 number: 0 
+-------
+value: 18 number: 0 
+-------
+value: 13 number: 0 
+-------
+value: -1 number: 0 
+-------
+value: -1 number: 0 
+-------
+
+value: 19 number: 0 
+-------
+value: 8 number: 0 
+-------
+value: -1 number: 0 
+-------
+value: 25 number: 0 
+-------
+value: -1 number: 0 
+-------
+
+value: 20 number: 0 
+-------
+value: -1 number: 0 
+-------
+value: 10 number: 0 
+-------
+value: 24 number: 0 
+-------
+value: -1 number: 0 
+-------
+
+value: 14 number: 0 
+-------
+value: 21 number: 0 
+-------
+value: 16 number: 0 
+-------
+value: 12 number: 0 
+-------
+value: 6 number: 0 
+-------
+
+End of card #1 checkingwins...
+
+
++1 col
++1 row
++1 row
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 col
++1 col
+
+r_c: 0	c_c: 3
+
+value: 14 number: 0 
+-------
+value: 21 number: 0 
+-------
+value: -1 number: 0 
+-------
+value: 24 number: 0 
+-------
+value: -1 number: 0 
+-------
+
+value: 10 number: 0 
+-------
+value: 16 number: 0 
+-------
+value: 15 number: 0 
+-------
+value: -1 number: 0 
+-------
+value: 19 number: 0 
+-------
+
+value: 18 number: 0 
+-------
+value: 8 number: 0 
+-------
+value: -1 number: 0 
+-------
+value: 26 number: 0 
+-------
+value: 20 number: 0 
+-------
+
+value: 22 number: 0 
+-------
+value: -1 number: 0 
+-------
+value: 13 number: 0 
+-------
+value: 6 number: 0 
+-------
+value: -1 number: 0 
+-------
+
+value: -1 number: 0 
+-------
+value: 0 number: 0 
+-------
+MARKED!
+
+value: 12 number: 0 
+-------
+value: 3 number: 0 
+-------
+value: -1 number: 0 
+-------
+
+End of card #2 checkingwins...
+
+
++1 row
++1 row
++1 col
++1 row
++1 col
++1 col
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
+
+r_c: 3	c_c: 3
+
+>Marking board for 14 number.
+value: 22 number: 14 
+-------
+value: 13 number: 14 
+-------
+value: -1 number: 14 
+-------
+value: -1 number: 14 
+-------
+value: -1 number: 14 
+-------
+
+value: 8 number: 14 
+-------
+value: -1 number: 14 
+-------
+value: -1 number: 14 
+-------
+value: -1 number: 14 
+-------
+value: 24 number: 14 
+-------
+
+value: 21 number: 14 
+-------
+value: -1 number: 14 
+-------
+value: 14 number: 14 
+-------
+MARKED!
+
+value: 16 number: 14 
+-------
+value: -1 number: 14 
+-------
+
+value: 6 number: 14 
+-------
+value: 10 number: 14 
+-------
+value: 3 number: 14 
+-------
+value: 18 number: 14 
+-------
+value: -1 number: 14 
+-------
+
+value: 1 number: 14 
+-------
+value: 12 number: 14 
+-------
+value: 20 number: 14 
+-------
+value: 15 number: 14 
+-------
+value: 19 number: 14 
+-------
+
+End of card #0 checkingwins...
+
+
++1 row
++1 row
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 col
++1 col
+
+r_c: 0	c_c: 3
+
+value: 3 number: 14 
+-------
+value: 15 number: 14 
+-------
+value: -1 number: 14 
+-------
+value: -1 number: 14 
+-------
+value: 22 number: 14 
+-------
+
+value: -1 number: 14 
+-------
+value: 18 number: 14 
+-------
+value: 13 number: 14 
+-------
+value: -1 number: 14 
+-------
+value: -1 number: 14 
+-------
+
+value: 19 number: 14 
+-------
+value: 8 number: 14 
+-------
+value: -1 number: 14 
+-------
+value: 25 number: 14 
+-------
+value: -1 number: 14 
+-------
+
+value: 20 number: 14 
+-------
+value: -1 number: 14 
+-------
+value: 10 number: 14 
+-------
+value: 24 number: 14 
+-------
+value: -1 number: 14 
+-------
+
+value: 14 number: 14 
+-------
+MARKED!
+
+value: 21 number: 14 
+-------
+value: 16 number: 14 
+-------
+value: 12 number: 14 
+-------
+value: 6 number: 14 
+-------
+
+End of card #1 checkingwins...
+
+
++1 col
++1 row
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 col
++1 col
+
+r_c: 1	c_c: 3
+
+value: 14 number: 14 
+-------
+MARKED!
+
+value: 21 number: 14 
+-------
+value: -1 number: 14 
+-------
+value: 24 number: 14 
+-------
+value: -1 number: 14 
+-------
+
+value: 10 number: 14 
+-------
+value: 16 number: 14 
+-------
+value: 15 number: 14 
+-------
+value: -1 number: 14 
+-------
+value: 19 number: 14 
+-------
+
+value: 18 number: 14 
+-------
+value: 8 number: 14 
+-------
+value: -1 number: 14 
+-------
+value: 26 number: 14 
+-------
+value: 20 number: 14 
+-------
+
+value: 22 number: 14 
+-------
+value: -1 number: 14 
+-------
+value: 13 number: 14 
+-------
+value: 6 number: 14 
+-------
+value: -1 number: 14 
+-------
+
+value: -1 number: 14 
+-------
+value: -1 number: 14 
+-------
+value: 12 number: 14 
+-------
+value: 3 number: 14 
+-------
+value: -1 number: 14 
+-------
+
+End of card #2 checkingwins...
+
+
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 col
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
+
+r_c: 3	c_c: 3
+
+>Marking board for 21 number.
+value: 22 number: 21 
+-------
+value: 13 number: 21 
+-------
+value: -1 number: 21 
+-------
+value: -1 number: 21 
+-------
+value: -1 number: 21 
+-------
+
+value: 8 number: 21 
+-------
+value: -1 number: 21 
+-------
+value: -1 number: 21 
+-------
+value: -1 number: 21 
+-------
+value: 24 number: 21 
+-------
+
+value: 21 number: 21 
+-------
+MARKED!
+
+value: -1 number: 21 
+-------
+value: -1 number: 21 
+-------
+value: 16 number: 21 
+-------
+value: -1 number: 21 
+-------
+
+value: 6 number: 21 
+-------
+value: 10 number: 21 
+-------
+value: 3 number: 21 
+-------
+value: 18 number: 21 
+-------
+value: -1 number: 21 
+-------
+
+value: 1 number: 21 
+-------
+value: 12 number: 21 
+-------
+value: 20 number: 21 
+-------
+value: 15 number: 21 
+-------
+value: 19 number: 21 
+-------
+
+End of card #0 checkingwins...
+
+
++1 row
++1 col
++1 row
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 col
++1 col
+
+r_c: 0	c_c: 3
+
+value: 3 number: 21 
+-------
+value: 15 number: 21 
+-------
+value: -1 number: 21 
+-------
+value: -1 number: 21 
+-------
+value: 22 number: 21 
+-------
+
+value: -1 number: 21 
+-------
+value: 18 number: 21 
+-------
+value: 13 number: 21 
+-------
+value: -1 number: 21 
+-------
+value: -1 number: 21 
+-------
+
+value: 19 number: 21 
+-------
+value: 8 number: 21 
+-------
+value: -1 number: 21 
+-------
+value: 25 number: 21 
+-------
+value: -1 number: 21 
+-------
+
+value: 20 number: 21 
+-------
+value: -1 number: 21 
+-------
+value: 10 number: 21 
+-------
+value: 24 number: 21 
+-------
+value: -1 number: 21 
+-------
+
+value: -1 number: 21 
+-------
+value: 21 number: 21 
+-------
+MARKED!
+
+value: 16 number: 21 
+-------
+value: 12 number: 21 
+-------
+value: 6 number: 21 
+-------
+
+End of card #1 checkingwins...
+
+
++1 col
++1 row
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 row
++1 col
++1 col
++1 col
+
+r_c: 2	c_c: 3
+
+value: -1 number: 21 
+-------
+value: 21 number: 21 
+-------
+MARKED!
+
+value: -1 number: 21 
+-------
+value: 24 number: 21 
+-------
+value: -1 number: 21 
+-------
+
+value: 10 number: 21 
+-------
+value: 16 number: 21 
+-------
+value: 15 number: 21 
+-------
+value: -1 number: 21 
+-------
+value: 19 number: 21 
+-------
+
+value: 18 number: 21 
+-------
+value: 8 number: 21 
+-------
+value: -1 number: 21 
+-------
+value: 26 number: 21 
+-------
+value: 20 number: 21 
+-------
+
+value: 22 number: 21 
+-------
+value: -1 number: 21 
+-------
+value: 13 number: 21 
+-------
+value: 6 number: 21 
+-------
+value: -1 number: 21 
+-------
+
+value: -1 number: 21 
+-------
+value: -1 number: 21 
+-------
+value: 12 number: 21 
+-------
+value: 3 number: 21 
+-------
+value: -1 number: 21 
+-------
+
+End of card #2 checkingwins...
+
+
++1 row
++1 col
++1 row
++1 row
++1 row
++1 col
++1 col
++1 row
++1 col
++1 col
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
+
+r_c: 3	c_c: 3
+
+>Marking board for 24 number.
+value: 22 number: 24 
+-------
+value: 13 number: 24 
+-------
+value: -1 number: 24 
+-------
+value: -1 number: 24 
+-------
+value: -1 number: 24 
+-------
+
+value: 8 number: 24 
+-------
+value: -1 number: 24 
+-------
+value: -1 number: 24 
+-------
+value: -1 number: 24 
+-------
+value: 24 number: 24 
+-------
+MARKED!
+
+
+value: -1 number: 24 
+-------
+value: -1 number: 24 
+-------
+value: -1 number: 24 
+-------
+value: 16 number: 24 
+-------
+value: -1 number: 24 
+-------
+
+value: 6 number: 24 
+-------
+value: 10 number: 24 
+-------
+value: 3 number: 24 
+-------
+value: 18 number: 24 
+-------
+value: -1 number: 24 
+-------
+
+value: 1 number: 24 
+-------
+value: 12 number: 24 
+-------
+value: 20 number: 24 
+-------
+value: 15 number: 24 
+-------
+value: 19 number: 24 
+-------
+
+End of card #0 checkingwins...
+
+
++1 row
++1 col
++1 row
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 col
++1 col
++1 col
+
+r_c: 0	c_c: 4
+
+value: 3 number: 24 
+-------
+value: 15 number: 24 
+-------
+value: -1 number: 24 
+-------
+value: -1 number: 24 
+-------
+value: 22 number: 24 
+-------
+
+value: -1 number: 24 
+-------
+value: 18 number: 24 
+-------
+value: 13 number: 24 
+-------
+value: -1 number: 24 
+-------
+value: -1 number: 24 
+-------
+
+value: 19 number: 24 
+-------
+value: 8 number: 24 
+-------
+value: -1 number: 24 
+-------
+value: 25 number: 24 
+-------
+value: -1 number: 24 
+-------
+
+value: 20 number: 24 
+-------
+value: -1 number: 24 
+-------
+value: 10 number: 24 
+-------
+value: 24 number: 24 
+-------
+MARKED!
+
+value: -1 number: 24 
+-------
+
+value: -1 number: 24 
+-------
+value: -1 number: 24 
+-------
+value: 16 number: 24 
+-------
+value: 12 number: 24 
+-------
+value: 6 number: 24 
+-------
+
+End of card #1 checkingwins...
+
+
++1 col
++1 row
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 row
++1 col
++1 col
++1 col
+
+r_c: 2	c_c: 3
+
+value: -1 number: 24 
+-------
+value: -1 number: 24 
+-------
+value: -1 number: 24 
+-------
+value: 24 number: 24 
+-------
+MARKED!
+
+value: -1 number: 24 
+-------
+
+value: 10 number: 24 
+-------
+value: 16 number: 24 
+-------
+value: 15 number: 24 
+-------
+value: -1 number: 24 
+-------
+value: 19 number: 24 
+-------
+
+value: 18 number: 24 
+-------
+value: 8 number: 24 
+-------
+value: -1 number: 24 
+-------
+value: 26 number: 24 
+-------
+value: 20 number: 24 
+-------
+
+value: 22 number: 24 
+-------
+value: -1 number: 24 
+-------
+value: 13 number: 24 
+-------
+value: 6 number: 24 
+-------
+value: -1 number: 24 
+-------
+
+value: -1 number: 24 
+-------
+value: -1 number: 24 
+-------
+value: 12 number: 24 
+-------
+value: 3 number: 24 
+-------
+value: -1 number: 24 
+-------
+
+End of card #2 checkingwins...
+
+
++1 row
++1 col
++1 row
++1 row
++1 row
++1 row
++1 col
++1 col
++1 row
++1 col
++1 col
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
+
+r_c: 3	c_c: 3
+
+>Marking board for 10 number.
+value: 22 number: 10 
+-------
+value: 13 number: 10 
+-------
+value: -1 number: 10 
+-------
+value: -1 number: 10 
+-------
+value: -1 number: 10 
+-------
+
+value: 8 number: 10 
+-------
+value: -1 number: 10 
+-------
+value: -1 number: 10 
+-------
+value: -1 number: 10 
+-------
+value: -1 number: 10 
+-------
+
+value: -1 number: 10 
+-------
+value: -1 number: 10 
+-------
+value: -1 number: 10 
+-------
+value: 16 number: 10 
+-------
+value: -1 number: 10 
+-------
+
+value: 6 number: 10 
+-------
+value: 10 number: 10 
+-------
+MARKED!
+
+value: 3 number: 10 
+-------
+value: 18 number: 10 
+-------
+value: -1 number: 10 
+-------
+
+value: 1 number: 10 
+-------
+value: 12 number: 10 
+-------
+value: 20 number: 10 
+-------
+value: 15 number: 10 
+-------
+value: 19 number: 10 
+-------
+
+End of card #0 checkingwins...
+
+
++1 row
++1 col
++1 row
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 col
++1 col
++1 col
+
+r_c: 0	c_c: 4
+
+value: 3 number: 10 
+-------
+value: 15 number: 10 
+-------
+value: -1 number: 10 
+-------
+value: -1 number: 10 
+-------
+value: 22 number: 10 
+-------
+
+value: -1 number: 10 
+-------
+value: 18 number: 10 
+-------
+value: 13 number: 10 
+-------
+value: -1 number: 10 
+-------
+value: -1 number: 10 
+-------
+
+value: 19 number: 10 
+-------
+value: 8 number: 10 
+-------
+value: -1 number: 10 
+-------
+value: 25 number: 10 
+-------
+value: -1 number: 10 
+-------
+
+value: 20 number: 10 
+-------
+value: -1 number: 10 
+-------
+value: 10 number: 10 
+-------
+MARKED!
+
+value: -1 number: 10 
+-------
+value: -1 number: 10 
+-------
+
+value: -1 number: 10 
+-------
+value: -1 number: 10 
+-------
+value: 16 number: 10 
+-------
+value: 12 number: 10 
+-------
+value: 6 number: 10 
+-------
+
+End of card #1 checkingwins...
+
+
++1 col
++1 row
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 row
++1 row
++1 col
++1 col
++1 col
+
+r_c: 2	c_c: 3
+
+value: -1 number: 10 
+-------
+value: -1 number: 10 
+-------
+value: -1 number: 10 
+-------
+value: -1 number: 10 
+-------
+value: -1 number: 10 
+-------
+
+value: 10 number: 10 
+-------
+MARKED!
+
+value: 16 number: 10 
+-------
+value: 15 number: 10 
+-------
+value: -1 number: 10 
+-------
+value: 19 number: 10 
+-------
+
+value: 18 number: 10 
+-------
+value: 8 number: 10 
+-------
+value: -1 number: 10 
+-------
+value: 26 number: 10 
+-------
+value: 20 number: 10 
+-------
+
+value: 22 number: 10 
+-------
+value: -1 number: 10 
+-------
+value: 13 number: 10 
+-------
+value: 6 number: 10 
+-------
+value: -1 number: 10 
+-------
+
+value: -1 number: 10 
+-------
+value: -1 number: 10 
+-------
+value: 12 number: 10 
+-------
+value: 3 number: 10 
+-------
+value: -1 number: 10 
+-------
+
+End of card #2 checkingwins...
+
+
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 col
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
+
+r_c: 3	c_c: 3
+
+>Marking board for 16 number.
+value: 22 number: 16 
+-------
+value: 13 number: 16 
+-------
+value: -1 number: 16 
+-------
+value: -1 number: 16 
+-------
+value: -1 number: 16 
+-------
+
+value: 8 number: 16 
+-------
+value: -1 number: 16 
+-------
+value: -1 number: 16 
+-------
+value: -1 number: 16 
+-------
+value: -1 number: 16 
+-------
+
+value: -1 number: 16 
+-------
+value: -1 number: 16 
+-------
+value: -1 number: 16 
+-------
+value: 16 number: 16 
+-------
+MARKED!
+
+value: -1 number: 16 
+-------
+
+value: 6 number: 16 
+-------
+value: -1 number: 16 
+-------
+value: 3 number: 16 
+-------
+value: 18 number: 16 
+-------
+value: -1 number: 16 
+-------
+
+value: 1 number: 16 
+-------
+value: 12 number: 16 
+-------
+value: 20 number: 16 
+-------
+value: 15 number: 16 
+-------
+value: 19 number: 16 
+-------
+
+End of card #0 checkingwins...
+
+
++1 row
++1 col
++1 row
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 col
++1 col
++1 col
+
+r_c: 0	c_c: 4
+
+value: 3 number: 16 
+-------
+value: 15 number: 16 
+-------
+value: -1 number: 16 
+-------
+value: -1 number: 16 
+-------
+value: 22 number: 16 
+-------
+
+value: -1 number: 16 
+-------
+value: 18 number: 16 
+-------
+value: 13 number: 16 
+-------
+value: -1 number: 16 
+-------
+value: -1 number: 16 
+-------
+
+value: 19 number: 16 
+-------
+value: 8 number: 16 
+-------
+value: -1 number: 16 
+-------
+value: 25 number: 16 
+-------
+value: -1 number: 16 
+-------
+
+value: 20 number: 16 
+-------
+value: -1 number: 16 
+-------
+value: -1 number: 16 
+-------
+value: -1 number: 16 
+-------
+value: -1 number: 16 
+-------
+
+value: -1 number: 16 
+-------
+value: -1 number: 16 
+-------
+value: 16 number: 16 
+-------
+MARKED!
+
+value: 12 number: 16 
+-------
+value: 6 number: 16 
+-------
+
+End of card #1 checkingwins...
+
+
++1 col
++1 row
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 row
++1 row
++1 col
++1 row
++1 col
++1 col
+
+r_c: 3	c_c: 3
+
+value: -1 number: 16 
+-------
+value: -1 number: 16 
+-------
+value: -1 number: 16 
+-------
+value: -1 number: 16 
+-------
+value: -1 number: 16 
+-------
+
+value: -1 number: 16 
+-------
+value: 16 number: 16 
+-------
+MARKED!
+
+value: 15 number: 16 
+-------
+value: -1 number: 16 
+-------
+value: 19 number: 16 
+-------
+
+value: 18 number: 16 
+-------
+value: 8 number: 16 
+-------
+value: -1 number: 16 
+-------
+value: 26 number: 16 
+-------
+value: 20 number: 16 
+-------
+
+value: 22 number: 16 
+-------
+value: -1 number: 16 
+-------
+value: 13 number: 16 
+-------
+value: 6 number: 16 
+-------
+value: -1 number: 16 
+-------
+
+value: -1 number: 16 
+-------
+value: -1 number: 16 
+-------
+value: 12 number: 16 
+-------
+value: 3 number: 16 
+-------
+value: -1 number: 16 
+-------
+
+End of card #2 checkingwins...
+
+
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 col
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
+
+r_c: 3	c_c: 3
+
+>Marking board for 13 number.
+value: 22 number: 13 
+-------
+value: 13 number: 13 
+-------
+MARKED!
+
+value: -1 number: 13 
+-------
+value: -1 number: 13 
+-------
+value: -1 number: 13 
+-------
+
+value: 8 number: 13 
+-------
+value: -1 number: 13 
+-------
+value: -1 number: 13 
+-------
+value: -1 number: 13 
+-------
+value: -1 number: 13 
+-------
+
+value: -1 number: 13 
+-------
+value: -1 number: 13 
+-------
+value: -1 number: 13 
+-------
+value: -1 number: 13 
+-------
+value: -1 number: 13 
+-------
+
+value: 6 number: 13 
+-------
+value: -1 number: 13 
+-------
+value: 3 number: 13 
+-------
+value: 18 number: 13 
+-------
+value: -1 number: 13 
+-------
+
+value: 1 number: 13 
+-------
+value: 12 number: 13 
+-------
+value: 20 number: 13 
+-------
+value: 15 number: 13 
+-------
+value: 19 number: 13 
+-------
+
+End of card #0 checkingwins...
+
+
++1 row
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 col
++1 col
++1 col
+
+r_c: 0	c_c: 4
+
+value: 3 number: 13 
+-------
+value: 15 number: 13 
+-------
+value: -1 number: 13 
+-------
+value: -1 number: 13 
+-------
+value: 22 number: 13 
+-------
+
+value: -1 number: 13 
+-------
+value: 18 number: 13 
+-------
+value: 13 number: 13 
+-------
+MARKED!
+
+value: -1 number: 13 
+-------
+value: -1 number: 13 
+-------
+
+value: 19 number: 13 
+-------
+value: 8 number: 13 
+-------
+value: -1 number: 13 
+-------
+value: 25 number: 13 
+-------
+value: -1 number: 13 
+-------
+
+value: 20 number: 13 
+-------
+value: -1 number: 13 
+-------
+value: -1 number: 13 
+-------
+value: -1 number: 13 
+-------
+value: -1 number: 13 
+-------
+
+value: -1 number: 13 
+-------
+value: -1 number: 13 
+-------
+value: -1 number: 13 
+-------
+value: 12 number: 13 
+-------
+value: 6 number: 13 
+-------
+
+End of card #1 checkingwins...
+
+
++1 col
++1 row
++1 row
++1 col
++1 row
++1 row
++1 row
++1 col
++1 row
++1 col
++1 col
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 row
++1 row
++1 col
++1 row
++1 col
++1 col
+
+r_c: 3	c_c: 3
+
+value: -1 number: 13 
+-------
+value: -1 number: 13 
+-------
+value: -1 number: 13 
+-------
+value: -1 number: 13 
+-------
+value: -1 number: 13 
+-------
+
+value: -1 number: 13 
+-------
+value: -1 number: 13 
+-------
+value: 15 number: 13 
+-------
+value: -1 number: 13 
+-------
+value: 19 number: 13 
+-------
+
+value: 18 number: 13 
+-------
+value: 8 number: 13 
+-------
+value: -1 number: 13 
+-------
+value: 26 number: 13 
+-------
+value: 20 number: 13 
+-------
+
+value: 22 number: 13 
+-------
+value: -1 number: 13 
+-------
+value: 13 number: 13 
+-------
+MARKED!
+
+value: 6 number: 13 
+-------
+value: -1 number: 13 
+-------
+
+value: -1 number: 13 
+-------
+value: -1 number: 13 
+-------
+value: 12 number: 13 
+-------
+value: 3 number: 13 
+-------
+value: -1 number: 13 
+-------
+
+End of card #2 checkingwins...
+
+
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 col
++1 col
++1 row
++1 col
++1 col
++1 col
++1 row
++1 col
++1 row
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
+
+r_c: 3	c_c: 3
+
+>Marking board for 6 number.
+value: 22 number: 6 
+-------
+value: -1 number: 6 
+-------
+value: -1 number: 6 
+-------
+value: -1 number: 6 
+-------
+value: -1 number: 6 
+-------
+
+value: 8 number: 6 
+-------
+value: -1 number: 6 
+-------
+value: -1 number: 6 
+-------
+value: -1 number: 6 
+-------
+value: -1 number: 6 
+-------
+
+value: -1 number: 6 
+-------
+value: -1 number: 6 
+-------
+value: -1 number: 6 
+-------
+value: -1 number: 6 
+-------
+value: -1 number: 6 
+-------
+
+value: 6 number: 6 
+-------
+MARKED!
+
+value: -1 number: 6 
+-------
+value: 3 number: 6 
+-------
+value: 18 number: 6 
+-------
+value: -1 number: 6 
+-------
+
+value: 1 number: 6 
+-------
+value: 12 number: 6 
+-------
+value: 20 number: 6 
+-------
+value: 15 number: 6 
+-------
+value: 19 number: 6 
+-------
+
+End of card #0 checkingwins...
+
+
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 row
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 col
++1 col
++1 col
+
+r_c: 0	c_c: 4
+
+value: 3 number: 6 
+-------
+value: 15 number: 6 
+-------
+value: -1 number: 6 
+-------
+value: -1 number: 6 
+-------
+value: 22 number: 6 
+-------
+
+value: -1 number: 6 
+-------
+value: 18 number: 6 
+-------
+value: -1 number: 6 
+-------
+value: -1 number: 6 
+-------
+value: -1 number: 6 
+-------
+
+value: 19 number: 6 
+-------
+value: 8 number: 6 
+-------
+value: -1 number: 6 
+-------
+value: 25 number: 6 
+-------
+value: -1 number: 6 
+-------
+
+value: 20 number: 6 
+-------
+value: -1 number: 6 
+-------
+value: -1 number: 6 
+-------
+value: -1 number: 6 
+-------
+value: -1 number: 6 
+-------
+
+value: -1 number: 6 
+-------
+value: -1 number: 6 
+-------
+value: -1 number: 6 
+-------
+value: 12 number: 6 
+-------
+value: 6 number: 6 
+-------
+MARKED!
+
+
+End of card #1 checkingwins...
+
+
++1 col
++1 row
++1 row
++1 col
++1 row
++1 row
++1 row
++1 col
++1 row
++1 col
++1 col
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 row
++1 row
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
+
+r_c: 4	c_c: 4
+
+value: -1 number: 6 
+-------
+value: -1 number: 6 
+-------
+value: -1 number: 6 
+-------
+value: -1 number: 6 
+-------
+value: -1 number: 6 
+-------
+
+value: -1 number: 6 
+-------
+value: -1 number: 6 
+-------
+value: 15 number: 6 
+-------
+value: -1 number: 6 
+-------
+value: 19 number: 6 
+-------
+
+value: 18 number: 6 
+-------
+value: 8 number: 6 
+-------
+value: -1 number: 6 
+-------
+value: 26 number: 6 
+-------
+value: 20 number: 6 
+-------
+
+value: 22 number: 6 
+-------
+value: -1 number: 6 
+-------
+value: -1 number: 6 
+-------
+value: 6 number: 6 
+-------
+MARKED!
+
+value: -1 number: 6 
+-------
+
+value: -1 number: 6 
+-------
+value: -1 number: 6 
+-------
+value: 12 number: 6 
+-------
+value: 3 number: 6 
+-------
+value: -1 number: 6 
+-------
+
+End of card #2 checkingwins...
+
+
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 col
++1 col
++1 row
++1 col
++1 col
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
+
+r_c: 3	c_c: 3
+
+>Marking board for 15 number.
+value: 22 number: 15 
+-------
+value: -1 number: 15 
+-------
+value: -1 number: 15 
+-------
+value: -1 number: 15 
+-------
+value: -1 number: 15 
+-------
+
+value: 8 number: 15 
+-------
+value: -1 number: 15 
+-------
+value: -1 number: 15 
+-------
+value: -1 number: 15 
+-------
+value: -1 number: 15 
+-------
+
+value: -1 number: 15 
+-------
+value: -1 number: 15 
+-------
+value: -1 number: 15 
+-------
+value: -1 number: 15 
+-------
+value: -1 number: 15 
+-------
+
+value: -1 number: 15 
+-------
+value: -1 number: 15 
+-------
+value: 3 number: 15 
+-------
+value: 18 number: 15 
+-------
+value: -1 number: 15 
+-------
+
+value: 1 number: 15 
+-------
+value: 12 number: 15 
+-------
+value: 20 number: 15 
+-------
+value: 15 number: 15 
+-------
+MARKED!
+
+value: 19 number: 15 
+-------
+
+End of card #0 checkingwins...
+
+
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 row
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 col
++1 col
++1 col
++1 row
++1 col
+
+r_c: 1	c_c: 4
+
+value: 3 number: 15 
+-------
+value: 15 number: 15 
+-------
+MARKED!
+
+value: -1 number: 15 
+-------
+value: -1 number: 15 
+-------
+value: 22 number: 15 
+-------
+
+value: -1 number: 15 
+-------
+value: 18 number: 15 
+-------
+value: -1 number: 15 
+-------
+value: -1 number: 15 
+-------
+value: -1 number: 15 
+-------
+
+value: 19 number: 15 
+-------
+value: 8 number: 15 
+-------
+value: -1 number: 15 
+-------
+value: 25 number: 15 
+-------
+value: -1 number: 15 
+-------
+
+value: 20 number: 15 
+-------
+value: -1 number: 15 
+-------
+value: -1 number: 15 
+-------
+value: -1 number: 15 
+-------
+value: -1 number: 15 
+-------
+
+value: -1 number: 15 
+-------
+value: -1 number: 15 
+-------
+value: -1 number: 15 
+-------
+value: 12 number: 15 
+-------
+value: -1 number: 15 
+-------
+
+End of card #1 checkingwins...
+
+
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 col
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 row
++1 row
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
+
+r_c: 4	c_c: 4
+
+value: -1 number: 15 
+-------
+value: -1 number: 15 
+-------
+value: -1 number: 15 
+-------
+value: -1 number: 15 
+-------
+value: -1 number: 15 
+-------
+
+value: -1 number: 15 
+-------
+value: -1 number: 15 
+-------
+value: 15 number: 15 
+-------
+MARKED!
+
+value: -1 number: 15 
+-------
+value: 19 number: 15 
+-------
+
+value: 18 number: 15 
+-------
+value: 8 number: 15 
+-------
+value: -1 number: 15 
+-------
+value: 26 number: 15 
+-------
+value: 20 number: 15 
+-------
+
+value: 22 number: 15 
+-------
+value: -1 number: 15 
+-------
+value: -1 number: 15 
+-------
+value: -1 number: 15 
+-------
+value: -1 number: 15 
+-------
+
+value: -1 number: 15 
+-------
+value: -1 number: 15 
+-------
+value: 12 number: 15 
+-------
+value: 3 number: 15 
+-------
+value: -1 number: 15 
+-------
+
+End of card #2 checkingwins...
+
+
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 col
++1 col
++1 col
++1 row
++1 col
++1 col
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
+
+r_c: 3	c_c: 3
+
+>Marking board for 25 number.
+value: 22 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: -1 number: 25 
+-------
+
+value: 8 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: -1 number: 25 
+-------
+
+value: -1 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: -1 number: 25 
+-------
+
+value: -1 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: 3 number: 25 
+-------
+value: 18 number: 25 
+-------
+value: -1 number: 25 
+-------
+
+value: 1 number: 25 
+-------
+value: 12 number: 25 
+-------
+value: 20 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: 19 number: 25 
+-------
+
+End of card #0 checkingwins...
+
+
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 row
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 col
++1 col
++1 col
++1 row
++1 col
+
+r_c: 1	c_c: 4
+
+value: 3 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: 22 number: 25 
+-------
+
+value: -1 number: 25 
+-------
+value: 18 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: -1 number: 25 
+-------
+
+value: 19 number: 25 
+-------
+value: 8 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: 25 number: 25 
+-------
+MARKED!
+
+value: -1 number: 25 
+-------
+
+value: 20 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: -1 number: 25 
+-------
+
+value: -1 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: 12 number: 25 
+-------
+value: -1 number: 25 
+-------
+
+End of card #1 checkingwins...
+
+
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 col
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 row
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
+
+r_c: 4	c_c: 4
+
+value: -1 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: -1 number: 25 
+-------
+
+value: -1 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: 19 number: 25 
+-------
+
+value: 18 number: 25 
+-------
+value: 8 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: 26 number: 25 
+-------
+value: 20 number: 25 
+-------
+
+value: 22 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: -1 number: 25 
+-------
+
+value: -1 number: 25 
+-------
+value: -1 number: 25 
+-------
+value: 12 number: 25 
+-------
+value: 3 number: 25 
+-------
+value: -1 number: 25 
+-------
+
+End of card #2 checkingwins...
+
+
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 col
++1 col
++1 col
++1 row
++1 col
++1 col
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
+
+r_c: 3	c_c: 3
+
+>Marking board for 12 number.
+value: 22 number: 12 
+-------
+value: -1 number: 12 
+-------
+value: -1 number: 12 
+-------
+value: -1 number: 12 
+-------
+value: -1 number: 12 
+-------
+
+value: 8 number: 12 
+-------
+value: -1 number: 12 
+-------
+value: -1 number: 12 
+-------
+value: -1 number: 12 
+-------
+value: -1 number: 12 
+-------
+
+value: -1 number: 12 
+-------
+value: -1 number: 12 
+-------
+value: -1 number: 12 
+-------
+value: -1 number: 12 
+-------
+value: -1 number: 12 
+-------
+
+value: -1 number: 12 
+-------
+value: -1 number: 12 
+-------
+value: 3 number: 12 
+-------
+value: 18 number: 12 
+-------
+value: -1 number: 12 
+-------
+
+value: 1 number: 12 
+-------
+value: 12 number: 12 
+-------
+MARKED!
+
+value: 20 number: 12 
+-------
+value: -1 number: 12 
+-------
+value: 19 number: 12 
+-------
+
+End of card #0 checkingwins...
+
+
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 row
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
+
+r_c: 2	c_c: 4
+
+value: 3 number: 12 
+-------
+value: -1 number: 12 
+-------
+value: -1 number: 12 
+-------
+value: -1 number: 12 
+-------
+value: 22 number: 12 
+-------
+
+value: -1 number: 12 
+-------
+value: 18 number: 12 
+-------
+value: -1 number: 12 
+-------
+value: -1 number: 12 
+-------
+value: -1 number: 12 
+-------
+
+value: 19 number: 12 
+-------
+value: 8 number: 12 
+-------
+value: -1 number: 12 
+-------
+value: -1 number: 12 
+-------
+value: -1 number: 12 
+-------
+
+value: 20 number: 12 
+-------
+value: -1 number: 12 
+-------
+value: -1 number: 12 
+-------
+value: -1 number: 12 
+-------
+value: -1 number: 12 
+-------
+
+value: -1 number: 12 
+-------
+value: -1 number: 12 
+-------
+value: -1 number: 12 
+-------
+value: 12 number: 12 
+-------
+MARKED!
+
+value: -1 number: 12 
+-------
+
+End of card #1 checkingwins...
+
+
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 col
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
++1 row
++1 col
+
+r_c: 5	c_c: 4
+
+The board with #1 WINS!!!
