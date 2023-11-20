@@ -1,47 +1,31 @@
 package main
 
 import (
-	"bufio"
 	"fmt"
-	"io"
-	"os"
+
+	aoc "gitlab.com/n00bady/myaochelper"
 )
 
 func main() {
 	fmt.Println("-=: AoC 2015 - Day 01 Part 1 :=-")
-    fmt.Println()
 
-	var current_floor int
+	f := aoc.Read_Text_Input("./input.txt")
+	chars := aoc.Parse_Runes(f)
+    f.Close()
+    floor := checkChar(chars)
 
-	f, err := os.Open("./input.txt")
-	if err != nil {
-		fmt.Println("File reading error: ", err)
-		os.Exit(1)
-	}
-	defer f.Close()
-
-	reader := bufio.NewReader(f)
-	for {
-		char, _, err := reader.ReadRune()
-		if err == io.EOF {
-			break
-		} else if err != nil {
-			fmt.Println("Rune reading error: ", err)
-			os.Exit(1)
-		}
-
-		current_floor = checkChar(char, current_floor)
-	}
-
-	fmt.Println("You end up in floor: ", current_floor)
+	fmt.Println("You end up in floor: ", floor)
 }
 
-func checkChar(char rune, current_floor int) int {
+func checkChar(chars []rune) int {
+	current_floor := 0
 
-	if char == '(' {
-        current_floor++
-	} else if char == ')' {
-        current_floor--
+	for _, c := range chars {
+		if c == '(' {
+			current_floor++
+		} else if c == ')' {
+			current_floor--
+		}
 	}
 
 	return current_floor
